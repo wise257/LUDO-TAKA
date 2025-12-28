@@ -1,0 +1,8 @@
+{
+  "name": "LUDO TAKA - Tournament Hub",
+  "description": "A premium mobile-first Ludo tournament platform with real-time stats, wallet management, and admin controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
